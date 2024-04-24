@@ -1,6 +1,6 @@
 # In editing...
 
-my_esp32 my collection of esp32 related files.
+my_esp32 my collection of esp32 related files (using ESP-IDF).
 
 The idea is to place all esp32 files here (electronic diagrams, programs, notes, etc.) to be shared.
 
